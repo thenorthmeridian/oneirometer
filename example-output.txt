@@ -1,0 +1,40 @@
+night 2026-10-05 — ibm_kingston, 1024 shots, 29 unique outcomes
+  entropy: 3.384 / 5.000 bits    effective outcomes: 10.4
+  top of the line: 00010 — 131 (12.8%)
+  heavy-8 share: 93.8%
+  voices (leftmost to rightmost): q4 49.0%  q3 49.3%  q2 49.4%  q1 98.1%  q0 52.0%
+  pole: q1 at 98.1% (48.1 pts from coin flip)
+  floating: q2 at 49.4%
+
+night 2026-10-07 — ibm_kingston, 1024 shots, 32 unique outcomes
+  entropy: 4.345 / 5.000 bits    effective outcomes: 20.3
+  top of the line: 00100 — 79 (7.7%)
+  heavy-8 share: 52.2%
+  voices (leftmost to rightmost): q4 47.3%  q3 47.9%  q2 52.2%  q1 7.1%  q0 48.2%
+  pole: q1 at 7.1% (42.9 pts from coin flip)
+  floating: q0 at 48.2%
+
+night 2026-10-08 — ibm_kingston, 1024 shots, 25 unique outcomes
+  entropy: 3.879 / 5.000 bits    effective outcomes: 14.7
+  top of the line: 11111 — 137 (13.4%)
+  heavy-8 share: 70.9%
+  voices (leftmost to rightmost): q4 98.9%  q3 56.1%  q2 47.2%  q1 54.4%  q0 49.3%
+  pole: q4 at 98.9% (48.9 pts from coin flip)
+  floating: q0 at 49.3%
+
+night 2026-10-09 — ibm_kingston, 1024 shots, 30 unique outcomes
+  entropy: 4.184 / 5.000 bits    effective outcomes: 18.2
+  top of the line: 00111 — 76 (7.4%)
+  heavy-8 share: 53.8%
+  voices (leftmost to rightmost): q4 49.0%  q3 50.3%  q2 54.3%  q1 48.5%  q0 49.6%
+  pole: q2 at 54.3% (4.3 pts from coin flip)
+  floating: q3 at 50.3%
+
+night 2026-10-10 — ibm_kingston, 1024 shots, 32 unique outcomes
+  entropy: 4.400 / 5.000 bits    effective outcomes: 21.1
+  top of the line: 10010 — 77 (7.5%)
+  heavy-8 share: 50.8%
+  voices (leftmost to rightmost): q4 50.1%  q3 45.2%  q2 50.1%  q1 91.3%  q0 50.9%
+  pole: q1 at 91.3% (41.3 pts from coin flip)
+  floating: q2 at 50.1%
+
